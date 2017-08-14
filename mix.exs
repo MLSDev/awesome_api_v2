@@ -2,7 +2,7 @@ defmodule AwesomeApiV2.Mixfile do
   use Mix.Project
 
   @project_version "0.1.4"
-  @project_url     "no url lol :D"
+  @project_url     "https://github.com/MLSDev/awesome_api_v2"
 
   def project do
     [
